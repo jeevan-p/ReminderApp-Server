@@ -1,0 +1,20 @@
+{
+  "name": "reminderapp-server",
+  "version": "1.0.0",
+  "description": "Reminder App Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeevan-p/ReminderApp-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeevan-p/ReminderApp-Server/issues"
+  },
+  "homepage": "https://github.com/jeevan-p/ReminderApp-Server#readme"
+}
